@@ -164,7 +164,7 @@ header.site-header .navbar-brand {
 
 @media (min-width: 992px) {
     .mainHeader #navbarSupportedContent .block-content .menu-item-first.menu-item--expanded.menu-level-0 > .dropdown-menu {
-        background: url(../Content/images/hero-bg.svg) no-repeat center left #BAA635;
+        background: url(../Content/images/hero-bg.svg) no-repeat center left #207570;
         background-size: contain;
         min-height: 250px;
     }
@@ -301,7 +301,7 @@ header.site-header .navbar-brand {
 }
 @media (min-width: 992px) {
     .mainHeader #navbarSupportedContent .block-content .menu-item-first.menu-item--expanded.menu-level-0 > .dropdown-menu {
-        background: url(../Content/images/hero-bg.svg) no-repeat center left #BAA635;
+        background: url(../Content/images/hero-bg.svg) no-repeat center left #207570;
         background-size: contain;
         min-height: 250px;
     }
@@ -2222,7 +2222,7 @@ header.site-header .user-login-sso .dropdown-menu.show a::before {
     color: #046F6D;
     font-size: 15px;
     text-decoration: underline !important;
-    border: 1.5px solid #BAA635;
+    border: 1.5px solid #207570;
     margin-bottom: 1rem;
 }
 .modal-search .search-api-form.search .btn.btn-white:hover, .sticky .header-left .modal-search .search-api-form.search .btn.btn-white:hover,
